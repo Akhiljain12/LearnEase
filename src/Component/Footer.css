@@ -1,0 +1,16 @@
+ul {
+  list-style-type: none;
+}
+
+.footer-link {
+  color: white;
+  text-decoration: none; /* Optional: To remove underline */
+}
+
+.footer-link:hover {
+  color: #00ADE6;
+}
+
+footer{
+  background-color:#000000d9;
+}

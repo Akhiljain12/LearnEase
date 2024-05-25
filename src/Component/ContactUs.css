@@ -1,0 +1,71 @@
+.icon-bg-orange {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 50%;
+    color: white;
+  }
+  
+  .text-md-start {
+    text-align: start;
+  }
+  
+  .shadow-border {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 767.98px) {
+    .text-center {
+      text-align: center !important;
+    }
+  
+    .my-3 {
+      margin-top: 1rem !important;
+      margin-bottom: 1rem !important;
+    }
+  
+    .my-md-5 {
+      margin-top: 3rem !important;
+      margin-bottom: 3rem !important;
+    }
+  
+    .mt-2 {
+      margin-top: 0.5rem !important;
+    }
+  
+    .mt-md-0 {
+      margin-top: 0 !important;
+    }
+  
+    .ms-2 {
+      margin-left: 0.5rem !important;
+    }
+  
+    .mt-4 {
+      margin-top: 1.5rem !important;
+    }
+  
+    .mt-md-0 {
+      margin-top: 0 !important;
+    }
+  
+    .mb-4 {
+      margin-bottom: 1.5rem !important;
+    }
+  
+    .p-0 {
+      padding: 0 !important;
+    }
+  
+    .mb-3 {
+      margin-bottom: 1rem !important;
+    }
+  }
+  
+  .f-bold{
+    font-weight: 700;
+    font-size: 15px;
+  }
+  .light{
+    color: gray;
+  }
